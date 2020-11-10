@@ -2,10 +2,9 @@
 
 Kannimanga is a youtube channel https://www.youtube.com/channel/UC4c4zcBD8wNxED1MpFzC4iA
 
-### Markdown
+# MORE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Our Goal is to fill the World with entertainmeant
 ```markdown
 Syntax highlighted code block
 
